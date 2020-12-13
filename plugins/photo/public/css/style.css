@@ -1,0 +1,28 @@
+#photoPannel{
+    height: 20%;
+    width: 90%; 
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#enabledButton, #disabledButton{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#time{
+    margin-top: 10px;
+    width: 35px;
+}
+
+#prefix{
+    margin-top: 10px;
+    width: 90%;
+}
+
+#capturePhoto{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 90%;
+}
